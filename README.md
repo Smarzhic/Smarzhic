@@ -18,5 +18,5 @@
 * [x] Пройти курс по Git на Slurm
 * [x] Создать свой первый проект на Github
 * [x] Пройти курс по DevOps на Netology
-* [ ] Изучить Kubernetus
+* [ ] Изучить Kubernetes
 <!-- TODO-IST:END -->
