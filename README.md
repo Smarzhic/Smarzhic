@@ -17,5 +17,6 @@
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс по Git на Slurm
 * [x] Создать свой первый проект на Github
-* [x] Пройти курс по DevOps на Netology       
+* [x] Пройти курс по DevOps на Netology
+* [ ] Изучить Kubernetus
 <!-- TODO-IST:END -->
